@@ -1,4 +1,6 @@
 Dipayan Roy
+SECTION 3C
+ROLL 20
 ENG24AM0166
 
 1. Age.java is for prompt user to enter birth year and current year and then calculate age.
